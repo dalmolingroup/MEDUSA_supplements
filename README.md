@@ -20,4 +20,4 @@ This repository serves as a hub for general and supplementary information relate
 ## Supplementary information
 
 - Supplementary tables, notes, as well as details for installing and running the pipeline
-  can be found in the 'SupplementaryMaterialFrontiers' PDF available as an adjacent file in this repository.
+  can be found in the ['SupplementaryMaterialFrontiers'](./SupplementaryMaterialFrontiers.pdf) PDF available as an adjacent file in this repository.
